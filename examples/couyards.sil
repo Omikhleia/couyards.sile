@@ -1,0 +1,26 @@
+\begin[papersize=a6,class=plain]{document}
+\neverindent
+\nofolios
+\use[module=packages.couyards]
+\font[family=Libertinus Serif, size=10]
+
+\center{\font[weight=700, size=12]{Pendants (\em{culs-de-lampe} or \em{couyards})}}
+
+\bigskip
+
+\smallskip
+\couyard[type=1,width=default]
+\couyard[type=2,width=default]
+\couyard[type=3,width=default]
+\couyard[type=4,width=default]
+\couyard[type=5,width=default]
+\couyard[type=6,width=default]
+\couyard[type=7,width=default]
+
+\smallskip
+\couyard[type=8,width=default]
+
+\smallskip
+\couyard[type=9,width=default]
+
+\end{document}
