@@ -29,7 +29,7 @@ build = {
       ["sile.packages.couyards.culs-de-lampe.cul-de-lampe-4"] = "packages/couyards/culs-de-lampe/cul-de-lampe-4.svg",
       ["sile.packages.couyards.culs-de-lampe.cul-de-lampe-5"] = "packages/couyards/culs-de-lampe/cul-de-lampe-5.svg",
       ["sile.packages.couyards.culs-de-lampe.cul-de-lampe-6"] = "packages/couyards/culs-de-lampe/cul-de-lampe-6.svg",
-      ["sile.packages.couyards.culs-de-lampe.cul-de-lampe-7"] = "packages/couyards/culs-de-lampe/cul-de-lampe-8.svg",
+      ["sile.packages.couyards.culs-de-lampe.cul-de-lampe-7"] = "packages/couyards/culs-de-lampe/cul-de-lampe-7.svg",
       ["sile.packages.couyards.culs-de-lampe.cul-de-lampe-8"] = "packages/couyards/culs-de-lampe/cul-de-lampe-8.svg",
       ["sile.packages.couyards.culs-de-lampe.cul-de-lampe-9"] = "packages/couyards/culs-de-lampe/cul-de-lampe-9.svg",
     }
