@@ -23,7 +23,7 @@ fleurons provided in fonts.
 
 Note that I am not the designers of the original artworks.
 The first seven designs were converted to SVG from designs by [Tartila](https://fr.freepik.com/vecteurs-libre/diviseurs-fleurs-calligraphiques_10837974.htm), free for personal and commercial usage with proper attribution.
-Number 8 and 9 are in the public domain (CC0), from [FreeSVG][https://freesvg.org].
+Number 8 and 9 are in the public domain (CC0), from [FreeSVG](https://freesvg.org).
 
 ## Installation
 
