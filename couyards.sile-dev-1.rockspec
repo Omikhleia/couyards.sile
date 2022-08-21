@@ -23,15 +23,15 @@ build = {
   },
   install = {
     lua = {
-      ["sile.packages.couyards.culs-de-lampe/cul-de-lampe-1"] = "packages/couyards/culs-de-lampe/cul-de-lampe-1.svg",
-      ["sile.packages.couyards.culs-de-lampe/cul-de-lampe-2"] = "packages/couyards/culs-de-lampe/cul-de-lampe-2.svg",
-      ["sile.packages.couyards.culs-de-lampe/cul-de-lampe-3"] = "packages/couyards/culs-de-lampe/cul-de-lampe-3.svg",
-      ["sile.packages.couyards.culs-de-lampe/cul-de-lampe-4"] = "packages/couyards/culs-de-lampe/cul-de-lampe-4.svg",
-      ["sile.packages.couyards.culs-de-lampe/cul-de-lampe-5"] = "packages/couyards/culs-de-lampe/cul-de-lampe-5.svg",
-      ["sile.packages.couyards.culs-de-lampe/cul-de-lampe-6"] = "packages/couyards/culs-de-lampe/cul-de-lampe-6.svg",
-      ["sile.packages.couyards.culs-de-lampe/cul-de-lampe-7"] = "packages/couyards/culs-de-lampe/cul-de-lampe-8.svg",
-      ["sile.packages.couyards.culs-de-lampe/cul-de-lampe-8"] = "packages/couyards/culs-de-lampe/cul-de-lampe-8.svg",
-      ["sile.packages.couyards.culs-de-lampe/cul-de-lampe-9"] = "packages/couyards/culs-de-lampe/cul-de-lampe-9.svg",
+      ["sile.packages.couyards.culs-de-lampe.cul-de-lampe-1"] = "packages/couyards/culs-de-lampe/cul-de-lampe-1.svg",
+      ["sile.packages.couyards.culs-de-lampe.cul-de-lampe-2"] = "packages/couyards/culs-de-lampe/cul-de-lampe-2.svg",
+      ["sile.packages.couyards.culs-de-lampe.cul-de-lampe-3"] = "packages/couyards/culs-de-lampe/cul-de-lampe-3.svg",
+      ["sile.packages.couyards.culs-de-lampe.cul-de-lampe-4"] = "packages/couyards/culs-de-lampe/cul-de-lampe-4.svg",
+      ["sile.packages.couyards.culs-de-lampe.cul-de-lampe-5"] = "packages/couyards/culs-de-lampe/cul-de-lampe-5.svg",
+      ["sile.packages.couyards.culs-de-lampe.cul-de-lampe-6"] = "packages/couyards/culs-de-lampe/cul-de-lampe-6.svg",
+      ["sile.packages.couyards.culs-de-lampe.cul-de-lampe-7"] = "packages/couyards/culs-de-lampe/cul-de-lampe-8.svg",
+      ["sile.packages.couyards.culs-de-lampe.cul-de-lampe-8"] = "packages/couyards/culs-de-lampe/cul-de-lampe-8.svg",
+      ["sile.packages.couyards.culs-de-lampe.cul-de-lampe-9"] = "packages/couyards/culs-de-lampe/cul-de-lampe-9.svg",
     }
   }
 }
