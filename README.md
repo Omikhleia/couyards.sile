@@ -17,7 +17,7 @@ It may be a single illustration, often assembled from “fleurons”.
 
 The present package defines a few such ornaments, that book authors might possibly find
 interesting to improve the look of their documents, without having to rely on single-character
-fleurons provided in fonts. They come as SVG files, and a simple package for easily insert
+fleurons provided in fonts. They come as SVG files, and a simple package for easily inserting
 them with appropriate options.
 
 ![couyards](couyards.png "Pendants, a.k.a. culs-de-lampe, couyards or fleurons")
