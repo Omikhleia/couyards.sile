@@ -19,11 +19,11 @@ end
 function package:_init (options)
   self.basepath = basepath()
   base._init(self, options)
+  self.class:loadPackage("svg")
 end
 
 function package:registerCommands ()
   self:registerCommand("couyard", function (options, _)
-    SILE.require("packages/svg")
     local n = SU.cast("integer", options.type or 1)
     local width = options.width and SU.cast("measurement", options.width == "default" and "7em" or options.width)
     local height = options.height and SU.cast("measurement", options.height =="default" and "0.9em" or options.height)
