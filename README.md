@@ -1,7 +1,7 @@
 # couyards.sile
 
-[![License](https://img.shields.io/github/license/Omikhleia/couyards.sile)](LICENSE)
-[![Luacheck](https://img.shields.io/github/workflow/status/Omikhleia/couyards.sile/Luacheck?label=Luacheck&logo=Lua)](https://github.com/Omikhleia/couyards.sile/actions?workflow=Luacheck)
+[![License](https://img.shields.io/github/license/Omikhleia/couyards.sile?label=License)](LICENSE)
+[![Luacheck](https://img.shields.io/github/actions/workflow/status/Omikhleia/couyards.sile/luacheck.yml?branch=main&label=Luacheck&logo=Lua)](https://github.com/Omikhleia/couyards.sile/actions?workflow=Luacheck)
 [![Luarocks](https://img.shields.io/luarocks/v/Omikhleia/couyards.sile?label=Luarocks&logo=Lua)](https://luarocks.org/modules/Omikhleia/couyards.sile)
 
 This package for the [SILE](https://github.com/sile-typesetter/sile) typesetting
